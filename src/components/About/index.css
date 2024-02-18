@@ -1,0 +1,11 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-page-heading {
+  font-size: 30px;
+  color: black;
+  font-weight: bold;
+}
